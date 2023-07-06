@@ -1,6 +1,5 @@
-# REU-UNO
-## Project 
+# Project 
 
 ### Description
 
-### Experiene 
+### Experience 
