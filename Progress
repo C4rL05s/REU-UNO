@@ -13,7 +13,8 @@ Ideally, I want to achieve a 90%> accuracy rate for the Machine Learning algorit
 
 ## Accuracy 
 
-  I've achieved 90%> in the majority of the models. The files included in this repository include the models used to authenticate users
+  I've achieved 90%> in the majority of the models. The files included in this repository include the models used to authenticate users. 
+
 ### Models 
 
   1. RFC (Random Forest Classifier)
