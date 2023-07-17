@@ -1,4 +1,5 @@
 # Progress
+
 So far I have been able to correctly authenticate 62% of the 12 users in this investigation. At the moment I'm using the following features: 
   1. Mean
   2. Inter Quartile Range (IQR)
